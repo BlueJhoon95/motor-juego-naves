@@ -86,6 +86,8 @@ flowchart LR
     Actor --- CU1
     Actor --- CU2
     Actor --- CU3
+```
+
 
  ## 📝 Especificación de Casos de Uso
 
