@@ -70,9 +70,8 @@ classDiagram
     GestorEntradas ..> MotorJuego : Usa
     Main ..> MotorJuego : Instancia
     Main ..> GestorEntradas : Instancia
-
-
-    ## 👥 Diagrama de Casos de Uso UML
+  ```
+## 👥 Diagrama de Casos de Uso UML
 
 A continuación se representa la interacción del jugador con el sistema principal:
 
